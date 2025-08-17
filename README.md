@@ -2,7 +2,7 @@
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=peanutbother&label=Profile%20views&color=0e75b6&style=flat" alt="peanutbother" />
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peanutbother&column=-1" alt="peanutbother" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peanutbother&column=-1&theme=dracula" alt="peanutbother" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
